@@ -1,404 +1,404 @@
-EpisodeID,TITLE, AIRDATE
-EID1,A Walk in the Woods, January 11 1983
-EID2,Mount McKinley, January 11 1983
-EID3,Ebony Sunset, January 18 1983
-EID4,Winter Mist, January 25 1983
-EID5,Quiet Stream, February 1 1983
-EID6,Winter Moon, February 8 1983
-EID7,Autumn Mountains, February 15 1983
-EID8,Peaceful Valley, February 22 1983
-EID9,Seascape, March 1 1983
-EID10,Mountain Lake, March 8 1983
-EID11,Winter Glow, March 15 1983
-EID12,Snowfall, March 22 1983
-EID13,Final Reflections, March 29 1983
-EID14,Meadow Lake, August 31 1983
-EID15,Winter Sun, September 7 1983
-EID16,Ebony Sea, September 14 1983
-EID17,Shades of Gray, September 21 1983
-EID18,Autumn Splendor, September 28 1983
-EID19,Black River, October 5 1983
-EID20,Brown Mountain, October 12 1983
-EID21,Reflections, October 19 1983
-EID22,Black & White Seascape, October 26 1983
-EID23,Lazy River, November 2 1983
-EID24,Black Waterfall, November 9 1983
-EID25,Mountain Waterfall, November 16 1983
-EID26,Final Grace, November 23 1983
-EID27,Mountain Retreat, January 4 1984
-EID28,Blue Moon, January 11 1984
-EID29,Bubbling Stream, January 18 1984
-EID30,Winter Night, January 25 1984
-EID31,Distant Hills, February 1 1984
-EID32,Covered Bridge, February 8 1984
-EID33,Quiet Inlet, February 15 1984
-EID34,Night Light, February 22 1984
-EID35,The Old Mill, March 1 1984
-EID36,Campfire, March 8 1984
-EID37,Rustic Barn, March 15 1984
-EID38,Hidden Lake, March 22 1984
-EID39,Peaceful Waters, March 29 1984
-EID40,Purple Splendor, September 5 1984
-EID41,Tranquil Valley, September 12 1984
-EID42,Majestic Mountains, September 19 1984
-EID43,Winter Sawscape, September 26 1984
-EID44,Evening Seascape, October 3 1984
-EID45,Warm Summer Day, October 10 1984
-EID46,Cabin in the Woods, October 17 1984
-EID47,Wetlands, October 24 1984
-EID48,Cool Waters, October 31 1984
-EID49,Quiet Woods, November 7 1984
-EID50,Northwest Majesty, November 14 1984
-EID51,Autumn Days, November 21 1984
-EID52,Mountain Challenge, November 28 1984
-EID53,Mountain Waterfall, January 2 1985
-EID54,Twilight Meadow, January 9 1985
-EID55,Mountain Blossoms, January 16 1985
-EID56,Winter Stillness, January 23 1985
-EID57,Quiet Pond, January 30 1985
-EID58,Ocean Sunrise, February 6 1985 Special guest Audrey Golden
-EID59,Bubbling Brook, February 13 1985
-EID60,Arizona Splendor, February 20 1985
-EID61,Anatomy of a Wave, February 27 1985 Special guest Joyce Ortner
-EID62,The Windmill, March 6 1985
-EID63,Autumn Glory, March 13 1985
-EID64,Indian Girl, March 20 1985
-EID65,Meadow Stream, March 27 1985
-EID66,Blue River, May 1 1985
-EID67,Nature's Edge, May 8 1985
-EID68,Morning Mist, May 15 1985
-EID69,Whispering Stream, May 22 1985
-EID70,Secluded Forest, May 29 1985
-EID71,Snow Trail, June 5 1985
-EID72,Arctic Beauty, June 12 1985
-EID73,Horizons West, June 19 1985
-EID74,High Chateau, June 26 1985
-EID75,Country Life, July 2 1985
-EID76,Western Expanse, July 9 1985
-EID77,Marshlands, July 16 1985
-EID78,Blaze of Color, July 23 1985
-EID79,Winter Cabin, October 2 1985
-EID80,Secluded Lake, October 9 1985
-EID81,Evergreen at Sunset, October 16 1985
-EID82,Mountain Cabin, October 23 1985
-EID83,Portrait of Sally, October 30 1985
-EID84,Misty Waterfall, November 6 1985
-EID85,Barn at Sunset, November 13 1985
-EID86,Mountain Splendor, November 20 1985
-EID87,Lake by Mountain, November 27 1985
-EID88,Mountain Glory, December 6 1985
-EID89,Grey Winter, December 13 1985
-EID90,Dock Scene, December 20 1985
-EID91,Dark Waterfall, December 27 1985
-EID92,Misty Rolling Hills, January 2 1986
-EID93,Lakeside Cabin, January 9 1986
-EID94,Warm Winter Day, January 16 1986
-EID95,Waterside Way, January 23 1986
-EID96,Hunter's Haven, January 30 1986
-EID97,Bubbling Mountain Brook, February 6 1986
-EID98,Winter Hideaway, February 13 1986
-EID99,Foot of the Mountain, February 20 1986
-EID100,Majestic Pine, February 27 1986
-EID101,Cactus at Sunset, March 6 1986
-EID102,Mountain Range, March 13 1986
-EID103,Lonely Retreat, March 20 1986
-EID104,Northern Lights, March 27 1986
-EID105,Winter Evergreens, April 30 1986
-EID106,Surf's Up, May 7 1986
-EID107,Red Sunset, May 14 1986
-EID108,Meadow Road, May 21 1986
-EID109,Winter Oval, May 28 1986
-EID110,Secluded Beach, June 4 1986
-EID111,Forest Hills, June 11 1986
-EID112,Little House by the Road, June 18 1986
-EID113,Mountain Pass, June 25 1986
-EID114,Country Charm, July 2 1986
-EID115,Nature's Paradise, July 9 1986
-EID116,Mountain by the Sea, July 16 1986
-EID117,Mountain Hideaway, July 23 1986
-EID118,Towering Peaks, September 3 1986
-EID119,Cabin at Sunset, September 10 1986
-EID120,Twin Falls, September 17 1986
-EID121,Secluded Bridge, September 24 1986
-EID122,Ocean Breeze, October 1 1986
-EID123,Autumn Woods, October 8 1986
-EID124,Winter Solitude, October 15 1986
-EID125,Golden Sunset, October 22 1986
-EID126,Mountain Oval, October 29 1986
-EID127,Ocean Sunset, November 5 1986
-EID128,Triple View, November 12 1986
-EID129,Winter Frost, November 19 1986
-EID130,Lakeside Cabin, November 26 1986
-EID131,Mountain Stream, December 31 1986
-EID132,Country Cabin, January 7 1987
-EID133,Daisy Delight, January 14 1987
-EID134,Hidden Stream, January 21 1987
-EID135,Towering Glacier, January 28 1987
-EID136,Oval Barn, February 4 1987
-EID137,Lakeside Path, February 11 1987
-EID138,Sunset Oval, February 18 1987
-EID139,Winter Barn, February 25 1987
-EID140,Sunset Over the Waves, March 4 1987
-EID141,Golden Glow, March 11 1987
-EID142,Roadside Barn, March 18 1987
-EID143,Happy Accident, March 25 1987
-EID144,Golden Knoll, April 29 1987
-EID145,Mountain Reflections, May 6 1987
-EID146,Secluded Mountain, May 13 1987
-EID147,Bright Autumn Trees, May 20 1987
-EID148,Black Seascape, May 27 1987
-EID149,Steep Mountains, June 3 1987
-EID150,Quiet Mountain River, June 10 1987
-EID151,Evening Waterfall, June 17 1987
-EID152,Tropical Seascape, June 24 1987
-EID153,Mountain at Sunset, July 1 1987
-EID154,Soft Mountain Glow, July 8 1987
-EID155,Mountain in an Oval, July 15 1987
-EID156,Winter Mountain, July 22 1987
-EID157,Rolling Hills, September 2 1987
-EID158,Frozen Solitude, September 9 1987
-EID159,Meadow Brook, September 16 1987
-EID160,Evening Sunset, September 23 1987
-EID161,Mountain View, September 30 1987
-EID162,Hidden Creek, October 7 1987
-EID163,Peaceful Haven, October 14 1987
-EID164,Mountain Exhibition, October 21 1987
-EID165,Emerald Waters, October 28 1987
-EID166,Mountain Summit, November 4 1987
-EID167,Cabin Hideaway, November 11 1987
-EID168,Oval Essence, November 18 1987
-EID169,Lost Lake, November 25 1987
-EID170,Distant Mountains, December 30 1987
-EID171,Meadow Brook Surprise, January 6 1988
-EID172,Mountain Moonlight Oval, January 13 1988
-EID173,Snowy Solitude, January 20 1988
-EID174,Mountain River, January 27 1988
-EID175,Graceful Mountains, February 3 1988
-EID176,Windy Waves, February 10 1988
-EID177,On a Clear Day, February 17 1988
-EID178,Riverside Escape Oval, February 24 1988
-EID179,Surprising Falls, March 2 1988
-EID180,Shadow Pond, March 9 1988
-EID181,Misty Forest, March 16 1988
-EID182,Natural Wonder, March 23 1988
-EID183,Splendor of Winter, April 27 1988
-EID184,Colors of Nature, May 4 1988
-EID185,Grandpa's Barn, May 11 1988
-EID186,Peaceful Reflections, May 18 1988
-EID187,Hidden Winter Moon Oval, May 25 1988
-EID188,Waves of Wonder, June 1 1988
-EID189,Cabin by the Pond, June 8 1988
-EID190,Fall Stream, June 15 1988
-EID191,Christmas Eve Snow, June 22 1988
-EID192,Forest Dawn Oval, June 29 1988
-EID193,Pathway to Autumn, July 6 1988
-EID194,Deep Forest Lake, July 13 1988
-EID195,Peaks of Majesty, July 20 1988
-EID196,Two Seasons, August 17 1988
-EID197,Nestled Cabin, August 24 1988
-EID198,Wintertime Discovery, August 31 1988
-EID199,Mountain Mirage, September 7 1988
-EID200,Double Oval Fantasy, September 14 1988
-EID201,Contemplative Lady, September 21 1988 Special guest John Thamm Bob Ross's former instructor
-EID202,Deep Woods, September 28 1988
-EID203,High Tide, October 5 1988
-EID204,Barn in Snow Oval, October 12 1988
-EID205,That Time of Year, October 19 1988 Special guest Steve Ross Bob's son
-EID206,Waterfall Wonder, October 26 1988 Footage with Grand Ole Opry regular Hank Snow and announcer Grant Turner
-EID207,Mighty Mountain Lake, November 2 1988
-EID208,Wooded Stream Oval, November 9 1988
-EID209,Golden Mist Oval, January 4 1989
-EID210,Old Place Home, January 11 1989
-EID211,Soothing Vista, January 18 1989
-EID212,Stormy Seas, January 25 1989
-EID213,Country Time, February 1 1989
-EID214,A Mild Winter's Day, February 8 1989
-EID215,Spectacular Waterfall, February 15 1989
-EID216,View From the Park, February 22 1989
-EID217,Lake View, March 1 1989
-EID218,Old Country Mill, March 8 1989
-EID219,Morning Walk, March 15 1989
-EID220,Nature's Splendor, March 22 1989
-EID221,Mountain Beauty, March 29 1989
-EID222,Half Oval Vignette, July 5 1989
-EID223,Absolutely Autumn, July 12 1989
-EID224,Mountain Seclusion, July 19 1989
-EID225,Crimson Oval, July 26 1989
-EID226,Autumn Exhibition, August 2 1989
-EID227,Majestic Peaks, August 9 1989
-EID228,Golden Morning Mist, August 16 1989
-EID229,Winter Lace, August 23 1989
-EID230,Seascape Fantasy, August 30 1989
-EID231,Double Oval Stream, September 6 1989
-EID232,Enchanted Forest, September 13 1989
-EID233,Southwest Serenity, September 20 1989
-EID234,Rippling Waters, September 27 1989
-EID235,Snowfall Magic, January 3 1990
-EID236,Quiet Mountain Lake, January 10 1990
-EID237,Final Embers of Sunlight, January 17 1990
-EID238,Snowy Morn, January 24 1990
-EID239,Camper's Haven, January 31 1990
-EID240,Waterfall in the Woods, February 7 1990
-EID241,Covered Bridge Oval, February 14 1990
-EID242,Scenic Seclusion, February 21 1990
-EID243,Ebb Tide, February 28 1990
-EID244,After the Rain, March 7 1990
-EID245,Winter Elegance, March 14 1990
-EID246,Evening's Peace, March 21 1990
-EID247,Valley of Tranquility, March 28 1990
-EID248,Mystic Mountain, April 4 1990
-EID249,New Day's Dawn, April 11 1990
-EID250,Pastel Winter, April 18 1990
-EID251,Hazy Day, April 25 1990
-EID252,Divine Elegance, May 2 1990
-EID253,Cliffside, May 9 1990
-EID254,Autumn Fantasy, May 16 1990
-EID255,Old Oak Tree, May 23 1990
-EID256,Winter Paradise, May 30 1990
-EID257,Days Gone By, June 6 1990
-EID258,Change of Seasons, June 13 1990
-EID259,Hidden Delight, June 20 1990
-EID260,Double Take, June 27 1990
-EID261,Valley View, September 5 1990
-EID262,Tranquil Dawn, September 12 1990
-EID263,Royal Majesty, September 19 1990
-EID264,Serenity, September 26 1990
-EID265,Cabin at Trial's End, October 3 1990
-EID266,Mountain Rhapsody, October 10 1990
-EID267,Wilderness Cabin, October 17 1990
-EID268,By the Sea, October 24 1990
-EID269,Indian Summer, October 31 1990
-EID270,Blue Winter, November 7 1990
-EID271,Desert Glow, November 14 1990
-EID272,Lone Mountain, November 21 1990
-EID273,Florida's Glory, November 28 1990
-EID274,Autumn Images, January 1 1991
-EID275,Hint of Springtime, January 8 1991
-EID276,Around the Bend, January 15 1991
-EID277,Countryside Oval, January 22 1991
-EID278,Russet Winter, January 29 1991
-EID279,Purple Haze, February 5 1991
-EID280,Dimensions, February 12 1991
-EID281,Deep Wilderness Home, February 19 1991
-EID282,Haven in the Valley, February 26 1991
-EID283,Wintertime Blues, March 5 1991
-EID284,Pastel Seascape, March 12 1991
-EID285,Country Creek, March 19 1991
-EID286,Silent Forest, March 26 1991
-EID287,Frosty Winter Morn, September 3 1991
-EID288,Forest Edge, September 10 1991
-EID289,Mountain Ridge Lake, September 17 1991
-EID290,Reflections of Gold, September 24 1991
-EID291,Quiet Cove, October 1 1991
-EID292,River's Peace, October 8 1991
-EID293,At Dawn's Light, October 15 1991
-EID294,Valley Waterfall, October 22 1991
-EID295,Toward Day's End, October 29 1991
-EID296,Falls in the Glen, November 5 1991
-EID297,Frozen Beauty in Vignette, November 12 1991
-EID298,Crimson Tide, November 19 1991
-EID299,Winter Bliss, November 26 1991
-EID300,Grey Mountain, January 7 1992
-EID301,Wayside Pond, January 14 1992
-EID302,Teton Winter, January 21 1992
-EID303,Little Home in the Meadow, January 28 1992
-EID304,Pretty Autumn Day, February 4 1992
-EID305,Mirrored Images, February 11 1992
-EID306,Back-Country Path, February 18 1992
-EID307,Graceful Waterfall, February 25 1992
-EID308,Icy Lake, March 3 1992
-EID309,Rowboat on the Beach, March 10 1992
-EID310,Portrait of Winter, March 17 1992
-EID311,Footbridge, March 24 1992
-EID312,Snowbound Cabin, March 31 1992
-EID313,Hide-a-Way Cove, August 25 1992
-EID314,Enchanted Falls Oval, September 1 1992
-EID315,Not Quite Spring, September 8 1992
-EID316,Splashes of Autumn, September 15 1992
-EID317,Summer in the Mountains, September 22 1992
-EID318,Oriental Falls, September 29 1992
-EID319,Autumn Palette, October 6 1992
-EID320,Cypress Swamp, October 13 1992
-EID321,Downstream View, October 20 1992
-EID322,Just Before the Storm, October 27 1992
-EID323,Fisherman's Paradise, November 3 1992
-EID324,Desert Hues, November 10 1992
-EID325,The Property Line, November 17 1992
-EID326,In the Stillness of Morning, December 1 1992
-EID327,Delightful Meadow Home, December 8 1992
-EID328,First Snow, December 15 1992
-EID329,Lake in the Valley, December 22 1992
-EID330,A Trace of Spring, December 29 1992
-EID331,An Arctic Winter Day, January 5 1993
-EID332,Snow Birch, January 12 1993
-EID333,Early Autumn, January 19 1993
-EID334,Tranquil Wooded Stream, January 26 1993
-EID335,Purple Mountain Range, February 2 1993
-EID336,Storm's a Comin', February 9 1993
-EID337,Sunset Aglow, February 16 1993
-EID338,Evening at the Falls, February 23 1993
-EID339,Twilight Beauty, March 2 1993
-EID340,Angler's Haven, March 9 1993
-EID341,Rustic Winter Woods, March 16 1993
-EID342,Wilderness Falls, March 23 1993
-EID343,Winter at the Farm, March 30 1993
-EID344,Daisies at Dawn, April 6 1993
-EID345,A Spectacular View, April 13 1993
-EID346,Daybreak, April 20 1993
-EID347,Island Paradise, April 27 1993
-EID348,Sunlight in the Shadows, May 4 1993
-EID349,Splendor of a Snowy Winter, May 11 1993
-EID350,Forest River, May 18 1993
-EID351,Golden Glow of Morning, May 20 1993
-EID352,Fisherman's Trail, May 25 1993 - After painting the canvas to resemble wood Ross paints a landscape with the titular trail plus mountains trees water and shrubbery but no sky.
-EID353,A Warm Winter, June 1 1993
-EID354,Under Pastel Skies, June 8 1993
-EID355,Golden Rays of Sunlight, June 15 1993
-EID356,The Magic of Fall, June 22 1993
-EID357,Glacier Lake, June 29 1993
-EID358,The Old Weathered Barn, July 6 1993
-EID359,Deep Forest Falls, July 13 1993
-EID360,Winter's Grace, July 20 1993
-EID361,Splendor of Autumn, July 27 1993
-EID362,Tranquil Seas, August 3 1993
-EID363,Mountain Serenity, August 10 1993
-EID364,Home Before Nightfall, August 17 1993
-EID365,Island in the Wilderness, August 24 1993
-EID366,Autumn Oval, August 31 1993
-EID367,Seasonal Progression, September 7 1993
-EID368,Light at the Summit, September 14 1993
-EID369,Countryside Barn, September 21 1993
-EID370,Mountain Lake Falls, September 28 1993 Special guest Steve Ross Bob's son
-EID371,Cypress Creek, October 5 1993
-EID372,Trapper's Cabin, October 12 1993
-EID373,Storm on the Horizon, October 19 1993
-EID374,Pot O' Posies, October 26 1993
-EID375,A Perfect Winter Day, November 2 1993
-EID376,Aurora's Dance, November 9 1993
-EID377,Woodsman's Retreat, November 16 1993
-EID378,Babbling Brook, November 23 1993
-EID379,Woodgrain View, November 30 1993
-EID380,Winter's Peace, December 7 1993
-EID381,Wilderness Trail, December 14 1993
-EID382,A Copper Winter, December 21 1993
-EID383,Misty Foothills, December 28 1993
-EID384,Through the Window, January 4 1994
-EID385,Home in the Valley, January 11 1994
-EID386,Mountains of Grace, January 18 1994 Guest Artist: Steve Ross
-EID387,Seaside Harmony, January 25 1994
-EID388,A Cold Spring Day, February 1 1994
-EID389,Evening's Glow, February 8 1994
-EID390,Blue Ridge Falls, February 15 1994
-EID391,Reflections of Calm, February 22 1994
-EID392,Before the Snowfall, March 1 1994
-EID393,Winding Stream, March 8 1994
-EID394,Tranquility Cove, March 15 1994
-EID395,Cabin in the Hollow, March 22 1994
-EID396,View From Clear Creek, March 29 1994
-EID397,Bridge to Autumn, April 5 1994
-EID398,Trail's End, April 12 1994
-EID399,Evergreen Valley, April 19 1994
-EID400,Balmy Beach, April 26 1994
-EID401,Lake at the Ridge, May 3 1994 featuring Steve Ross
-EID402,In the Midst of Winter, May 10 1994
-EID403,Wilderness Day, May 17 1994
+EpisodeID, Title, AirDate, Notes
+EID1, A Walk in the Woods, January 11 1983
+EID2, Mount McKinley, January 11 1983
+EID3, Ebony Sunset, January 18 1983
+EID4, Winter Mist, January 25 1983
+EID5, Quiet Stream, February 1 1983
+EID6, Winter Moon, February 8 1983
+EID7, Autumn Mountains, February 15 1983
+EID8, Peaceful Valley, February 22 1983
+EID9, Seascape, March 1 1983
+EID10, Mountain Lake, March 8 1983
+EID11, Winter Glow, March 15 1983
+EID12, Snowfall, March 22 1983
+EID13, Final Reflections, March 29 1983
+EID14, Meadow Lake, August 31 1983
+EID15, Winter Sun, September 7 1983
+EID16, Ebony Sea, September 14 1983
+EID17, Shades of Gray, September 21 1983
+EID18, Autumn Splendor, September 28 1983
+EID19, Black River, October 5 1983
+EID20, Brown Mountain, October 12 1983
+EID21, Reflections, October 19 1983
+EID22, Black & White Seascape, October 26 1983
+EID23, Lazy River, November 2 1983
+EID24, Black Waterfall, November 9 1983
+EID25, Mountain Waterfall, November 16 1983
+EID26, Final Grace, November 23 1983
+EID27, Mountain Retreat, January 4 1984
+EID28, Blue Moon, January 11 1984
+EID29, Bubbling Stream, January 18 1984
+EID30, Winter Night, January 25 1984
+EID31, Distant Hills, February 1 1984
+EID32, Covered Bridge, February 8 1984
+EID33, Quiet Inlet, February 15 1984
+EID34, Night Light, February 22 1984
+EID35, The Old Mill, March 1 1984
+EID36, Campfire, March 8 1984
+EID37, Rustic Barn, March 15 1984
+EID38, Hidden Lake, March 22 1984
+EID39, Peaceful Waters, March 29 1984
+EID40, Purple Splendor, September 5 1984
+EID41, Tranquil Valley, September 12 1984
+EID42, Majestic Mountains, September 19 1984
+EID43, Winter Sawscape, September 26 1984
+EID44, Evening Seascape, October 3 1984
+EID45, Warm Summer Day, October 10 1984
+EID46, Cabin in the Woods, October 17 1984
+EID47, Wetlands, October 24 1984
+EID48, Cool Waters, October 31 1984
+EID49, Quiet Woods, November 7 1984
+EID50, Northwest Majesty, November 14 1984
+EID51, Autumn Days, November 21 1984
+EID52, Mountain Challenge, November 28 1984
+EID53, Mountain Waterfall, January 2 1985
+EID54, Twilight Meadow, January 9 1985
+EID55, Mountain Blossoms, January 16 1985
+EID56, Winter Stillness, January 23 1985
+EID57, Quiet Pond, January 30 1985
+EID58, Ocean Sunrise, February 6 1985, Special guest Audrey Golden
+EID59, Bubbling Brook, February 13 1985
+EID60, Arizona Splendor, February 20 1985
+EID61, Anatomy of a Wave, February 27 1985, Special guest Joyce Ortner
+EID62, The Windmill, March 6 1985
+EID63, Autumn Glory, March 13 1985
+EID64, Indian Girl, March 20 1985
+EID65, Meadow Stream, March 27 1985
+EID66, Blue River, May 1 1985
+EID67, Nature's Edge, May 8 1985
+EID68, Morning Mist, May 15 1985
+EID69, Whispering Stream, May 22 1985
+EID70, Secluded Forest, May 29 1985
+EID71, Snow Trail, June 5 1985
+EID72, Arctic Beauty, June 12 1985
+EID73, Horizons West, June 19 1985
+EID74, High Chateau, June 26 1985
+EID75, Country Life, July 2 1985
+EID76, Western Expanse, July 9 1985
+EID77, Marshlands, July 16 1985
+EID78, Blaze of Color, July 23 1985
+EID79, Winter Cabin, October 2 1985
+EID80, Secluded Lake, October 9 1985
+EID81, Evergreen at Sunset, October 16 1985
+EID82, Mountain Cabin, October 23 1985
+EID83, Portrait of Sally, October 30 1985
+EID84, Misty Waterfall, November 6 1985
+EID85, Barn at Sunset, November 13 1985
+EID86, Mountain Splendor, November 20 1985
+EID87, Lake by Mountain, November 27 1985
+EID88, Mountain Glory, December 6 1985
+EID89, Grey Winter, December 13 1985
+EID90, Dock Scene, December 20 1985
+EID91, Dark Waterfall, December 27 1985
+EID92, Misty Rolling Hills, January 2 1986
+EID93, Lakeside Cabin, January 9 1986
+EID94, Warm Winter Day, January 16 1986
+EID95, Waterside Way, January 23 1986
+EID96, Hunter's Haven, January 30 1986
+EID97, Bubbling Mountain Brook, February 6 1986
+EID98, Winter Hideaway, February 13 1986
+EID99, Foot of the Mountain, February 20 1986
+EID100, Majestic Pine, February 27 1986
+EID101, Cactus at Sunset, March 6 1986
+EID102, Mountain Range, March 13 1986
+EID103, Lonely Retreat, March 20 1986
+EID104, Northern Lights, March 27 1986
+EID105, Winter Evergreens, April 30 1986
+EID106, Surf's Up, May 7 1986
+EID107, Red Sunset, May 14 1986
+EID108, Meadow Road, May 21 1986
+EID109, Winter Oval, May 28 1986
+EID110, Secluded Beach, June 4 1986
+EID111, Forest Hills, June 11 1986
+EID112, Little House by the Road, June 18 1986
+EID113, Mountain Pass, June 25 1986
+EID114, Country Charm, July 2 1986
+EID115, Nature's Paradise, July 9 1986
+EID116, Mountain by the Sea, July 16 1986
+EID117, Mountain Hideaway, July 23 1986
+EID118, Towering Peaks, September 3 1986
+EID119, Cabin at Sunset, September 10 1986
+EID120, Twin Falls, September 17 1986
+EID121, Secluded Bridge, September 24 1986
+EID122, Ocean Breeze, October 1 1986
+EID123, Autumn Woods, October 8 1986
+EID124, Winter Solitude, October 15 1986
+EID125, Golden Sunset, October 22 1986
+EID126, Mountain Oval, October 29 1986
+EID127, Ocean Sunset, November 5 1986
+EID128, Triple View, November 12 1986
+EID129, Winter Frost, November 19 1986
+EID130, Lakeside Cabin, November 26 1986
+EID131, Mountain Stream, December 31 1986
+EID132, Country Cabin, January 7 1987
+EID133, Daisy Delight, January 14 1987
+EID134, Hidden Stream, January 21 1987
+EID135, Towering Glacier, January 28 1987
+EID136, Oval Barn, February 4 1987
+EID137, Lakeside Path, February 11 1987
+EID138, Sunset Oval, February 18 1987
+EID139, Winter Barn, February 25 1987
+EID140, Sunset Over the Waves, March 4 1987
+EID141, Golden Glow, March 11 1987
+EID142, Roadside Barn, March 18 1987
+EID143, Happy Accident, March 25 1987
+EID144, Golden Knoll, April 29 1987
+EID145, Mountain Reflections, May 6 1987
+EID146, Secluded Mountain, May 13 1987
+EID147, Bright Autumn Trees, May 20 1987
+EID148, Black Seascape, May 27 1987
+EID149, Steep Mountains, June 3 1987
+EID150, Quiet Mountain River, June 10 1987
+EID151, Evening Waterfall, June 17 1987
+EID152, Tropical Seascape, June 24 1987
+EID153, Mountain at Sunset, July 1 1987
+EID154, Soft Mountain Glow, July 8 1987
+EID155, Mountain in an Oval, July 15 1987
+EID156, Winter Mountain, July 22 1987
+EID157, Rolling Hills, September 2 1987
+EID158, Frozen Solitude, September 9 1987
+EID159, Meadow Brook, September 16 1987
+EID160, Evening Sunset, September 23 1987
+EID161, Mountain View, September 30 1987
+EID162, Hidden Creek, October 7 1987
+EID163, Peaceful Haven, October 14 1987
+EID164, Mountain Exhibition, October 21 1987
+EID165, Emerald Waters, October 28 1987
+EID166, Mountain Summit, November 4 1987
+EID167, Cabin Hideaway, November 11 1987
+EID168, Oval Essence, November 18 1987
+EID169, Lost Lake, November 25 1987
+EID170, Distant Mountains, December 30 1987
+EID171, Meadow Brook Surprise, January 6 1988
+EID172, Mountain Moonlight Oval, January 13 1988
+EID173, Snowy Solitude, January 20 1988
+EID174, Mountain River, January 27 1988
+EID175, Graceful Mountains, February 3 1988
+EID176, Windy Waves, February 10 1988
+EID177, On a Clear Day, February 17 1988
+EID178, Riverside Escape Oval, February 24 1988
+EID179, Surprising Falls, March 2 1988
+EID180, Shadow Pond, March 9 1988
+EID181, Misty Forest, March 16 1988
+EID182, Natural Wonder, March 23 1988
+EID183, Splendor of Winter, April 27 1988
+EID184, Colors of Nature, May 4 1988
+EID185, Grandpa's Barn, May 11 1988
+EID186, Peaceful Reflections, May 18 1988
+EID187, Hidden Winter Moon Oval, May 25 1988
+EID188, Waves of Wonder, June 1 1988
+EID189, Cabin by the Pond, June 8 1988
+EID190, Fall Stream, June 15 1988
+EID191, Christmas Eve Snow, June 22 1988
+EID192, Forest Dawn Oval, June 29 1988
+EID193, Pathway to Autumn, July 6 1988
+EID194, Deep Forest Lake, July 13 1988
+EID195, Peaks of Majesty, July 20 1988
+EID196, Two Seasons, August 17 1988
+EID197, Nestled Cabin, August 24 1988
+EID198, Wintertime Discovery, August 31 1988
+EID199, Mountain Mirage, September 7 1988
+EID200, Double Oval Fantasy, September 14 1988
+EID201, Contemplative Lady, September 21 1988, Special guest John Thamm Bob Ross's former instructor
+EID202, Deep Woods, September 28 1988
+EID203, High Tide, October 5 1988
+EID204, Barn in Snow Oval, October 12 1988
+EID205, That Time of Year, October 19 1988, Special guest Steve Ross Bob's son
+EID206, Waterfall Wonder, October 26 1988, Footage with Grand Ole Opry regular Hank Snow and announcer Grant Turner
+EID207, Mighty Mountain Lake, November 2 1988
+EID208, Wooded Stream Oval, November 9 1988
+EID209, Golden Mist Oval, January 4 1989
+EID210, Old Place Home, January 11 1989
+EID211, Soothing Vista, January 18 1989
+EID212, Stormy Seas, January 25 1989
+EID213, Country Time, February 1 1989
+EID214, A Mild Winter's Day, February 8 1989
+EID215, Spectacular Waterfall, February 15 1989
+EID216, View From the Park, February 22 1989
+EID217, Lake View, March 1 1989
+EID218, Old Country Mill, March 8 1989
+EID219, Morning Walk, March 15 1989
+EID220, Nature's Splendor, March 22 1989
+EID221, Mountain Beauty, March 29 1989
+EID222, Half Oval Vignette, July 5 1989
+EID223, Absolutely Autumn, July 12 1989
+EID224, Mountain Seclusion, July 19 1989
+EID225, Crimson Oval, July 26 1989
+EID226, Autumn Exhibition, August 2 1989
+EID227, Majestic Peaks, August 9 1989
+EID228, Golden Morning Mist, August 16 1989
+EID229, Winter Lace, August 23 1989
+EID230, Seascape Fantasy, August 30 1989
+EID231, Double Oval Stream, September 6 1989
+EID232, Enchanted Forest, September 13 1989
+EID233, Southwest Serenity, September 20 1989
+EID234, Rippling Waters, September 27 1989
+EID235, Snowfall Magic, January 3 1990
+EID236, Quiet Mountain Lake, January 10 1990
+EID237, Final Embers of Sunlight, January 17 1990
+EID238, Snowy Morn, January 24 1990
+EID239, Camper's Haven, January 31 1990
+EID240, Waterfall in the Woods, February 7 1990
+EID241, Covered Bridge Oval, February 14 1990
+EID242, Scenic Seclusion, February 21 1990
+EID243, Ebb Tide, February 28 1990
+EID244, After the Rain, March 7 1990
+EID245, Winter Elegance, March 14 1990
+EID246, Evening's Peace, March 21 1990
+EID247, Valley of Tranquility, March 28 1990
+EID248, Mystic Mountain, April 4 1990
+EID249, New Day's Dawn, April 11 1990
+EID250, Pastel Winter, April 18 1990
+EID251, Hazy Day, April 25 1990
+EID252, Divine Elegance, May 2 1990
+EID253, Cliffside, May 9 1990
+EID254, Autumn Fantasy, May 16 1990
+EID255, Old Oak Tree, May 23 1990
+EID256, Winter Paradise, May 30 1990
+EID257, Days Gone By, June 6 1990
+EID258, Change of Seasons, June 13 1990
+EID259, Hidden Delight, June 20 1990
+EID260, Double Take, June 27 1990
+EID261, Valley View, September 5 1990
+EID262, Tranquil Dawn, September 12 1990
+EID263, Royal Majesty, September 19 1990
+EID264, Serenity, September 26 1990
+EID265, Cabin at Trial's End, October 3 1990
+EID266, Mountain Rhapsody, October 10 1990
+EID267, Wilderness Cabin, October 17 1990
+EID268, By the Sea, October 24 1990
+EID269, Indian Summer, October 31 1990
+EID270, Blue Winter, November 7 1990
+EID271, Desert Glow, November 14 1990
+EID272, Lone Mountain, November 21 1990
+EID273, Florida's Glory, November 28 1990
+EID274, Autumn Images, January 1 1991
+EID275, Hint of Springtime, January 8 1991
+EID276, Around the Bend, January 15 1991
+EID277, Countryside Oval, January 22 1991
+EID278, Russet Winter, January 29 1991
+EID279, Purple Haze, February 5 1991
+EID280, Dimensions, February 12 1991
+EID281, Deep Wilderness Home, February 19 1991
+EID282, Haven in the Valley, February 26 1991
+EID283, Wintertime Blues, March 5 1991
+EID284, Pastel Seascape, March 12 1991
+EID285, Country Creek, March 19 1991
+EID286, Silent Forest, March 26 1991
+EID287, Frosty Winter Morn, September 3 1991
+EID288, Forest Edge, September 10 1991
+EID289, Mountain Ridge Lake, September 17 1991
+EID290, Reflections of Gold, September 24 1991
+EID291, Quiet Cove, October 1 1991
+EID292, River's Peace, October 8 1991
+EID293, At Dawn's Light, October 15 1991
+EID294, Valley Waterfall, October 22 1991
+EID295, Toward Day's End, October 29 1991
+EID296, Falls in the Glen, November 5 1991
+EID297, Frozen Beauty in Vignette, November 12 1991
+EID298, Crimson Tide, November 19 1991
+EID299, Winter Bliss, November 26 1991
+EID300, Grey Mountain, January 7 1992
+EID301, Wayside Pond, January 14 1992
+EID302, Teton Winter, January 21 1992
+EID303, Little Home in the Meadow, January 28 1992
+EID304, Pretty Autumn Day, February 4 1992
+EID305, Mirrored Images, February 11 1992
+EID306, Back-Country Path, February 18 1992
+EID307, Graceful Waterfall, February 25 1992
+EID308, Icy Lake, March 3 1992
+EID309, Rowboat on the Beach, March 10 1992
+EID310, Portrait of Winter, March 17 1992
+EID311, Footbridge, March 24 1992
+EID312, Snowbound Cabin, March 31 1992
+EID313, Hide-a-Way Cove, August 25 1992
+EID314, Enchanted Falls Oval, September 1 1992
+EID315, Not Quite Spring, September 8 1992
+EID316, Splashes of Autumn, September 15 1992
+EID317, Summer in the Mountains, September 22 1992
+EID318, Oriental Falls, September 29 1992
+EID319, Autumn Palette, October 6 1992
+EID320, Cypress Swamp, October 13 1992
+EID321, Downstream View, October 20 1992
+EID322, Just Before the Storm, October 27 1992
+EID323, Fisherman's Paradise, November 3 1992
+EID324, Desert Hues, November 10 1992
+EID325, The Property Line, November 17 1992
+EID326, In the Stillness of Morning, December 1 1992
+EID327, Delightful Meadow Home, December 8 1992
+EID328, First Snow, December 15 1992
+EID329, Lake in the Valley, December 22 1992
+EID330, A Trace of Spring, December 29 1992
+EID331, An Arctic Winter Day, January 5 1993
+EID332, Snow Birch, January 12 1993
+EID333, Early Autumn, January 19 1993
+EID334, Tranquil Wooded Stream, January 26 1993
+EID335, Purple Mountain Range, February 2 1993
+EID336, Storm's a Comin', February 9 1993
+EID337, Sunset Aglow, February 16 1993
+EID338, Evening at the Falls, February 23 1993
+EID339, Twilight Beauty, March 2 1993
+EID340, Angler's Haven, March 9 1993
+EID341, Rustic Winter Woods, March 16 1993
+EID342, Wilderness Falls, March 23 1993
+EID343, Winter at the Farm, March 30 1993
+EID344, Daisies at Dawn, April 6 1993
+EID345, A Spectacular View, April 13 1993
+EID346, Daybreak, April 20 1993
+EID347, Island Paradise, April 27 1993
+EID348, Sunlight in the Shadows, May 4 1993
+EID349, Splendor of a Snowy Winter, May 11 1993
+EID350, Forest River, May 18 1993
+EID351, Golden Glow of Morning, May 20 1993
+EID352, Fisherman's Trail, May 25 1993, After painting the canvas to resemble wood Ross paints a landscape with the titular trail plus mountains trees water and shrubbery but no sky.
+EID353, A Warm Winter, June 1 1993
+EID354, Under Pastel Skies, June 8 1993
+EID355, Golden Rays of Sunlight, June 15 1993
+EID356, The Magic of Fall, June 22 1993
+EID357, Glacier Lake, June 29 1993
+EID358, The Old Weathered Barn, July 6 1993
+EID359, Deep Forest Falls, July 13 1993
+EID360, Winter's Grace, July 20 1993
+EID361, Splendor of Autumn, July 27 1993
+EID362, Tranquil Seas, August 3 1993
+EID363, Mountain Serenity, August 10 1993
+EID364, Home Before Nightfall, August 17 1993
+EID365, Island in the Wilderness, August 24 1993
+EID366, Autumn Oval, August 31 1993
+EID367, Seasonal Progression, September 7 1993
+EID368, Light at the Summit, September 14 1993
+EID369, Countryside Barn, September 21 1993
+EID370, Mountain Lake Falls, September 28 1993, Special guest Steve Ross
+EID371, Cypress Creek, October 5 1993
+EID372, Trapper's Cabin, October 12 1993
+EID373, Storm on the Horizon, October 19 1993
+EID374, Pot O' Posies, October 26 1993
+EID375, A Perfect Winter Day, November 2 1993
+EID376, Aurora's Dance, November 9 1993
+EID377, Woodsman's Retreat, November 16 1993
+EID378, Babbling Brook, November 23 1993
+EID379, Woodgrain View, November 30 1993
+EID380, Winter's Peace, December 7 1993
+EID381, Wilderness Trail, December 14 1993
+EID382, A Copper Winter, December 21 1993
+EID383, Misty Foothills, December 28 1993
+EID384, Through the Window, January 4 1994
+EID385, Home in the Valley, January 11 1994
+EID386, Mountains of Grace, January 18 1994, Special guest Steve Ross
+EID387, Seaside Harmony, January 25 1994
+EID388, A Cold Spring Day, February 1 1994
+EID389, Evening's Glow, February 8 1994
+EID390, Blue Ridge Falls, February 15 1994
+EID391, Reflections of Calm, February 22 1994
+EID392, Before the Snowfall, March 1 1994
+EID393, Winding Stream, March 8 1994
+EID394, Tranquility Cove, March 15 1994
+EID395, Cabin in the Hollow, March 22 1994
+EID396, View From Clear Creek, March 29 1994
+EID397, Bridge to Autumn, April 5 1994
+EID398, Trail's End, April 12 1994
+EID399, Evergreen Valley, April 19 1994
+EID400, Balmy Beach, April 26 1994
+EID401, Lake at the Ridge, May 3 1994, Special guest Steve Ross
+EID402, In the Midst of Winter, May 10 1994
+EID403, Wilderness Day, May 17 1994
